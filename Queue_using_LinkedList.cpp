@@ -58,7 +58,6 @@ bool isEmpty()
 {
     if (Front == 0)
     {
-        cout << "Queue is empty";
         return true;
     }
     return false;
