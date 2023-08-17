@@ -4,6 +4,7 @@ using namespace std;
 int Front=-1,rear=-1;
 int queue[n];
 void enqueue(int N)
+// 1 line added
 {
     if(rear<n)
     {
